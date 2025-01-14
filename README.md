@@ -1,1 +1,2 @@
-# NjRat-0.7D-Golden-Edition
+# njRAT-Golden-Edition
+Remote Administration Tool
